@@ -9,6 +9,7 @@ html {
     --text-color-highlight: #c02525;
     --bg-brand-color: #f0f0f0;
     --temporary-color: #395674;
+    --highlight-color: #0d6efd;
 }
 
 body {
@@ -36,6 +37,10 @@ body {
     border-color: var(--text-color-highlight);
     background-color: var(--text-color-highlight);
     color: var(--text-color-common);
+}
+
+.text-link {
+color: var(--highlight-color);
 }
 
 
