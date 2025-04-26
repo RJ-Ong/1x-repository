@@ -40,7 +40,7 @@ body {
 }
 
 .text-link {
-color: var(--highlight-color);
+color: var(--highlight-color) !important;
 }
 
 
